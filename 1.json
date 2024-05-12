@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    { "trait_type": "Backgrounds", "value": "Piggy Pink" },
+    { "trait_type": "Ears", "value": "Cat Ears" },
+    { "trait_type": "Body", "value": "Bird Body" },
+    { "trait_type": "Mouth", "value": "Cartoon Mouth" },
+    { "trait_type": "Eyes", "value": "Stupid Eyes" },
+    { "trait_type": "Brows", "value": "Brows" }
+  ],
+  "name": "Bubble #1",
+  "description": "Уникальная коллекция Bubbles Heroes, нарисованная вручную",
+  "image": "https://ipfs.io/ipfs/QmSi2w67FqGjdN8U9G7ZtzoZ6ZUdYPjgShGxzHaLfiCCzj"
+}
